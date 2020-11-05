@@ -1,0 +1,26 @@
+Warning[207] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO3.X\PROYECTO3.ASM 63 : Found label after column 1. (COSO_1)
+Warning[207] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO3.X\PROYECTO3.ASM 67 : Found label after column 1. (NIVEL_2)
+Warning[207] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO3.X\PROYECTO3.ASM 71 : Found label after column 1. (NIVEL_3)
+Warning[207] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO3.X\PROYECTO3.ASM 75 : Found label after column 1. (NIVEL_1)
+Warning[207] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO3.X\PROYECTO3.ASM 82 : Found label after column 1. (COSO1)
+Warning[207] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO3.X\PROYECTO3.ASM 90 : Found label after column 1. (COSO2)
+Warning[207] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO3.X\PROYECTO3.ASM 97 : Found label after column 1. (TERMINAR)
+Message[305] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO3.X\PROYECTO3.ASM 108 : Using default destination of 1 (file).
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO3.X\PROYECTO3.ASM 160 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO3.X\PROYECTO3.ASM 185 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO3.X\PROYECTO3.ASM 204 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO3.X\PROYECTO3.ASM 205 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO3.X\PROYECTO3.ASM 206 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO3.X\PROYECTO3.ASM 207 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO3.X\PROYECTO3.ASM 209 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[305] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO3.X\PROYECTO3.ASM 210 : Using default destination of 1 (file).
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO3.X\PROYECTO3.ASM 210 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO3.X\PROYECTO3.ASM 211 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO3.X\PROYECTO3.ASM 212 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO3.X\PROYECTO3.ASM 222 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO3.X\PROYECTO3.ASM 230 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[207] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO3.X\PROYECTO3.ASM 239 : Found label after column 1. (DELAY_1)
+Warning[207] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO3.X\PROYECTO3.ASM 242 : Found label after column 1. (CONFIG1)
+Warning[207] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO3.X\PROYECTO3.ASM 248 : Found label after column 1. (DELAY_2)
+Warning[207] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO3.X\PROYECTO3.ASM 251 : Found label after column 1. (CONFIG2)
+Warning[205] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO3.X\PROYECTO3.ASM 272 : Found directive in column 1. (END)
