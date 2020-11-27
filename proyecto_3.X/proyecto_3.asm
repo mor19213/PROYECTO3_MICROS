@@ -335,13 +335,13 @@ SE1
     GOTO	LOOP 
     
 SE2
-    BTFSC   SENAL, 5
+    BTFSC   SENAL, 4
     MOVLW   .8
     BTFSS   SENAL, 5
     MOVLW   .2
     MOVWF   SERVO1_T
     
-    BTFSC   SENAL, 5
+    BTFSC   SENAL, 4
     MOVLW   .2   
     BTFSS   SENAL, 5
     MOVLW   .8
@@ -349,35 +349,35 @@ SE2
     GOTO	LOOP 
     
 SE3
-    BTFSC   SENAL, 5
+    BTFSC   SENAL, 2
     MOVLW   .4
     BTFSS   SENAL, 5
-    MOVLW   .9
+    MOVLW   .10
     MOVWF   SERVO1_T
     
-    BTFSC   SENAL, 5
-    MOVLW   .4  
+    BTFSC   SENAL, 2
+    MOVLW   .10  
     BTFSS   SENAL, 5
     MOVLW   .4
     MOVWF   SERVO2_T
     GOTO	LOOP 
     
 SE4
-    BTFSC   SENAL, 6
+    BTFSC   SENAL, 4
     MOVLW   .4
-    BTFSS   SENAL, 6
+    BTFSS   SENAL, 4
     MOVLW   .2
     MOVWF   SERVO1_T
     
-    BTFSC   SENAL, 6
+    BTFSC   SENAL, 4
     MOVLW   .4
-    BTFSS   SENAL, 6
+    BTFSS   SENAL, 4
     MOVLW   .2
     MOVWF   SERVO2_T
     GOTO	LOOP 
 
 MODO2:
-    ;CALL    LEER
+    CALL    LEER
     MOVFW   SERVO1_EEPROM
     MOVWF   SERVO1_T
     
@@ -395,10 +395,11 @@ MODO1:
     MOVFW   SERVO2
     MOVWF   SERVO2_T
 
-    ;BTFSS   PORTD, RD4
+    BTFSS   PORTD, RD4
     GOTO    LOOP
     
-    ;GOTO    ESCRITURA
+    CALL    ESCRITURA
+    
     GOTO    LOOP
     
 ;**************************** SUBRUTINAS ***************************************
@@ -407,7 +408,7 @@ LEER:
     BANKSEL INTCON
     BCF	    INTCON, GIE
     BANKSEL EEADR
-    MOVLW   .1
+    MOVLW   .0
     MOVWF   EEADR
     
     BANKSEL EECON1
@@ -418,12 +419,9 @@ LEER:
     MOVFW   EEDATA
     BANKSEL PORTA
     MOVWF   SERVO1_EEPROM
-    ;CALL    DELAY_1
-    BANKSEL INTCON
     BSF	    INTCON, GIE
-    BANKSEL PORTA
     
-SEGUNDOSERVO
+LEER2
     BANKSEL INTCON
     BCF	    INTCON, GIE
     BANKSEL EEADR
@@ -438,26 +436,26 @@ SEGUNDOSERVO
     MOVFW   EEDATA
     BANKSEL PORTA
     MOVWF   SERVO2_EEPROM
-    ;CALL    DELAY_1
-    BANKSEL INTCON
     BSF	    INTCON, GIE
-    BANKSEL PORTA
     RETURN
        
     
 ESCRITURA:
+    BTFSC   PORTD, RD4
+    GOTO    ESCRITURA
     BANKSEL EEADR
     MOVLW   .0
     MOVWF   EEADR
-    BANKSEL CCPR2L
-    MOVFW   CCPR2L
     BANKSEL EEDATA
+    BTFSC   PORTB, RB6
+    MOVLW   .2
+    BTFSS   PORTB, RB6
+    MOVLW   .10
     MOVWF   EEDATA
     
     BANKSEL EECON1
     BCF	    EECON1, EEPGD
     BSF	    EECON1, WREN
-    
     
     BCF	    INTCON, GIE
     
@@ -467,34 +465,11 @@ ESCRITURA:
     MOVWF   EECON2
     BSF	    EECON1, WR
     
-    ;BSF	    INTCON, GIE
+    BSF	    INTCON, GIE
     BCF	    EECON1, WREN
     
     BANKSEL PORTA
-    
-PRIMERCOSO
-    BANKSEL EEADR
-    MOVLW   .1
-    MOVWF   EEADR
-    BANKSEL CCPR1L
-    MOVFW   CCPR1L
-    BANKSEL EEDATA
-    MOVWF   EEDATA
-    
-    BANKSEL EECON1
-    BCF	    EECON1, EEPGD
-    BSF	    EECON1, WREN
-    BCF	    INTCON, GIE
-    MOVLW   0x55
-    MOVWF   EECON2
-    MOVLW   0xAA
-    MOVWF   EECON2
-    BSF	    EECON1, WR
-    ;BSF	    INTCON, GIE
-    BCF	    EECON1, WREN
-    
-    BANKSEL PORTA
-    GOTO    LOOP
+    RETURN
     
 INC_MODO
     BTFSC   PORTD, RD3

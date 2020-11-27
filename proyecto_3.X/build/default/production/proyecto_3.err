@@ -8,69 +8,61 @@ Message[305] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 207 : Usi
 Warning[207] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 229 : Found label after column 1. (T)
 Warning[207] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 250 : Found label after column 1. (COSO2)
 Warning[207] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 261 : Found label after column 1. (TERMINAR)
-Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 411 : Register in operand not in bank 0.  Ensure that bank bits are correct.
-Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 414 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 412 : Register in operand not in bank 0.  Ensure that bank bits are correct.
 Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 415 : Register in operand not in bank 0.  Ensure that bank bits are correct.
-Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 418 : Register in operand not in bank 0.  Ensure that bank bits are correct.
-Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 431 : Register in operand not in bank 0.  Ensure that bank bits are correct.
-Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 434 : Register in operand not in bank 0.  Ensure that bank bits are correct.
-Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 435 : Register in operand not in bank 0.  Ensure that bank bits are correct.
-Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 438 : Register in operand not in bank 0.  Ensure that bank bits are correct.
-Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 451 : Register in operand not in bank 0.  Ensure that bank bits are correct.
-Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 455 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 416 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 419 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 429 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 432 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 433 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 436 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 448 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 454 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 457 : Register in operand not in bank 0.  Ensure that bank bits are correct.
 Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 458 : Register in operand not in bank 0.  Ensure that bank bits are correct.
-Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 459 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 463 : Register in operand not in bank 0.  Ensure that bank bits are correct.
 Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 465 : Register in operand not in bank 0.  Ensure that bank bits are correct.
-Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 467 : Register in operand not in bank 0.  Ensure that bank bits are correct.
-Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 468 : Register in operand not in bank 0.  Ensure that bank bits are correct.
-Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 471 : Register in operand not in bank 0.  Ensure that bank bits are correct.
-Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 478 : Register in operand not in bank 0.  Ensure that bank bits are correct.
-Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 482 : Register in operand not in bank 0.  Ensure that bank bits are correct.
-Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 485 : Register in operand not in bank 0.  Ensure that bank bits are correct.
-Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 486 : Register in operand not in bank 0.  Ensure that bank bits are correct.
-Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 489 : Register in operand not in bank 0.  Ensure that bank bits are correct.
-Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 491 : Register in operand not in bank 0.  Ensure that bank bits are correct.
-Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 492 : Register in operand not in bank 0.  Ensure that bank bits are correct.
-Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 494 : Register in operand not in bank 0.  Ensure that bank bits are correct.
-Message[305] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 502 : Using default destination of 1 (file).
-Warning[207] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 506 : Found label after column 1. (AA)
-Warning[207] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 512 : Found label after column 1. (AA2)
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 466 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 469 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[305] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 477 : Using default destination of 1 (file).
+Warning[207] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 481 : Found label after column 1. (AA)
+Warning[207] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 487 : Found label after column 1. (AA2)
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 503 : Register in operand not in bank 0.  Ensure that bank bits are correct.
 Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 528 : Register in operand not in bank 0.  Ensure that bank bits are correct.
-Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 553 : Register in operand not in bank 0.  Ensure that bank bits are correct.
-Warning[207] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 559 : Found label after column 1. (CONFIG_OSC)
+Warning[207] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 534 : Found label after column 1. (CONFIG_OSC)
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 537 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 542 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 543 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 544 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 545 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 546 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 556 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 557 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 558 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 559 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 561 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[305] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 562 : Using default destination of 1 (file).
 Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 562 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 563 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 564 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[305] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 565 : Using default destination of 1 (file).
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 565 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 566 : Register in operand not in bank 0.  Ensure that bank bits are correct.
 Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 567 : Register in operand not in bank 0.  Ensure that bank bits are correct.
 Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 568 : Register in operand not in bank 0.  Ensure that bank bits are correct.
-Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 569 : Register in operand not in bank 0.  Ensure that bank bits are correct.
-Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 570 : Register in operand not in bank 0.  Ensure that bank bits are correct.
-Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 571 : Register in operand not in bank 0.  Ensure that bank bits are correct.
-Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 581 : Register in operand not in bank 0.  Ensure that bank bits are correct.
-Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 582 : Register in operand not in bank 0.  Ensure that bank bits are correct.
-Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 583 : Register in operand not in bank 0.  Ensure that bank bits are correct.
-Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 584 : Register in operand not in bank 0.  Ensure that bank bits are correct.
 Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 586 : Register in operand not in bank 0.  Ensure that bank bits are correct.
-Message[305] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 587 : Using default destination of 1 (file).
-Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 587 : Register in operand not in bank 0.  Ensure that bank bits are correct.
-Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 588 : Register in operand not in bank 0.  Ensure that bank bits are correct.
-Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 589 : Register in operand not in bank 0.  Ensure that bank bits are correct.
-Message[305] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 590 : Using default destination of 1 (file).
-Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 590 : Register in operand not in bank 0.  Ensure that bank bits are correct.
-Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 591 : Register in operand not in bank 0.  Ensure that bank bits are correct.
-Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 592 : Register in operand not in bank 0.  Ensure that bank bits are correct.
-Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 593 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 594 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 597 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 598 : Register in operand not in bank 0.  Ensure that bank bits are correct.
 Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 611 : Register in operand not in bank 0.  Ensure that bank bits are correct.
-Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 619 : Register in operand not in bank 0.  Ensure that bank bits are correct.
-Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 622 : Register in operand not in bank 0.  Ensure that bank bits are correct.
-Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 623 : Register in operand not in bank 0.  Ensure that bank bits are correct.
-Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 636 : Register in operand not in bank 0.  Ensure that bank bits are correct.
-Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 637 : Register in operand not in bank 0.  Ensure that bank bits are correct.
-Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 638 : Register in operand not in bank 0.  Ensure that bank bits are correct.
-Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 639 : Register in operand not in bank 0.  Ensure that bank bits are correct.
-Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 642 : Register in operand not in bank 0.  Ensure that bank bits are correct.
-Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 645 : Register in operand not in bank 0.  Ensure that bank bits are correct.
-Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 646 : Register in operand not in bank 0.  Ensure that bank bits are correct.
-Warning[207] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 655 : Found label after column 1. (DELAY_1)
-Warning[207] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 658 : Found label after column 1. (CONFIG1)
-Warning[207] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 664 : Found label after column 1. (DELAY_2)
-Warning[207] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 667 : Found label after column 1. (CONFIG2)
-Warning[205] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 673 : Found directive in column 1. (END)
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 612 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 613 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 614 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 617 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 620 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 621 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[207] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 630 : Found label after column 1. (DELAY_1)
+Warning[207] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 633 : Found label after column 1. (CONFIG1)
+Warning[207] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 639 : Found label after column 1. (DELAY_2)
+Warning[207] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 642 : Found label after column 1. (CONFIG2)
+Warning[205] C:\USERS\SERVI\MPLABXPROJECTS\PROYECTO_3.X\PROYECTO_3.ASM 648 : Found directive in column 1. (END)
